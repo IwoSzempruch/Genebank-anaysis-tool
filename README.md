@@ -28,4 +28,4 @@ Output Folder: The script will create an "output" folder in the same directory a
 
 Review Output Files: After the script finishes analyzing all the input files, you can open the output folder to review the extracted gene, mRNA, and protein information for each file.
 
-Created by Iwo Szemprych, with assistance of ChatGPT
+Created by Iwo Szempruch, with assistance of ChatGPT
