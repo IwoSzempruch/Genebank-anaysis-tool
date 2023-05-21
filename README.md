@@ -7,7 +7,7 @@ Biopython: The script relies on the Biopython library to process GenBank files. 
 pip install biopython
 
 #Usage
-1. Download the Python script containing the GenBank File Analysis Tool.
+1. Download the Python script containing the GenBank File Analysis Tool (main.py).
 
 2. Prepare Input Files: Place your GenBank files (.gb or .gbk extension) in a separate folder. Ensure that only the GeneBank files you want to analyze are located in this folder
 
